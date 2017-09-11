@@ -200,6 +200,19 @@
     <string name="battery_percentage_beside">Show beside the battery icon</string>
     <string name="battery_percentage_inside">Show inside the battery icon</string>
 
+    <!-- Features Settings - Notifications -->
+    <string name="light_category">Lights</string>
+    <string name="battery_light_settings">Battery charging light</string>
+    <string name="battery_light_settings_summary">Enable and configure how the LED should work</string>
+    <string name="battery_light_enable">Battery light</string>
+    <string name="battery_light_allow_on_dnd_title">Battery light in Do Not Disturb mode</string>
+    <string name="battery_light_low_blinking_title">Blinking light on low battery</string>
+    <string name="battery_light_cat">Battery light color when charging</string>
+    <string name="battery_light_low_color">Low battery</string>
+    <string name="battery_light_medium_color">Medium battery</string>
+    <string name="battery_light_full_color">Almost full battery</string>
+    <string name="battery_light_reallyfull_color">Full (100) battery</string>
+
     <!-- Toxyc statusbar logo -->
     <string name="status_bar_logo_title">Toxyc logo</string>
     <string name="status_bar_logo_summary">Enable to show Toxyc logo on statusbar</string>

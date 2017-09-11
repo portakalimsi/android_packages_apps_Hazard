@@ -197,6 +197,19 @@
   <string name="battery_percentage_beside">Mostrar ao lado do ícone da bateria</string>
   <string name="battery_percentage_inside">Mostrar dentro do ícone da bateria</string>
 
+  <!-- Features Settings - Notifications -->
+  <string name="light_category">LED</string>
+  <string name="battery_light_settings">Luz de bateria carregando</string>
+  <string name="battery_light_settings_summary">Habilitar e configurar como o LED deve funcionar</string>
+  <string name="battery_light_enable">Luz de bateria</string>
+  <string name="battery_light_allow_on_dnd_title">Luz de bateria em modo não perturbe</string>
+  <string name="battery_light_low_blinking_title">Luz intermitente em bateria fraca</string>
+  <string name="battery_light_cat">Cor de luz da bateria carregando</string>
+  <string name="battery_light_low_color">Bateria baixa</string>
+  <string name="battery_light_medium_color">Bateria média</string>
+  <string name="battery_light_full_color">Bateria quase completa</string>
+  <string name="battery_light_reallyfull_color">Bateria completa</string>
+
   <!-- Toxyc statusbar logo -->
   <string name="status_bar_logo_title">Toxyc logo</string>
   <string name="status_bar_logo_summary">Ativar para mostrar o logotipo da Toxyc na barra de status</string>
