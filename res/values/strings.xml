@@ -202,12 +202,16 @@
     <string name="status_bar_logo_left">Left</string>
     <string name="status_bar_logo_right">Right</string>
 
-    <!-- Status bar ticker -->
+    <!-- Status bar -->
     <string name="ticker_mode_title">Statusbar notification ticker</string>
     <string name="ticker_mode_title_summary">Quickly show song title and notification in status bar</string>
     <string name="ticker_disabled">Disabled</string>
     <string name="ticker_enabled">Notification ticker</string>
     <string name="ticker_media_enabled">Notification and music ticker</string>
+    <string name="network_traffic_title">Network traffic</string>
+    <string name="network_traffic_summary">Show me network traffic status</string>
+    <string name="network_traffic_state_title">Show net activity in statusbar</string>
+    <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
 
     <!-- Navbar tuner -->
     <string name="navbar_tuner_title">Manage navigation bar</string>

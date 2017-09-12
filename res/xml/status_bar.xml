@@ -55,6 +55,13 @@
         android:fragment="com.toxyc.hazard.fragments.TickerSettings" />
 
     <PreferenceScreen
+        android:key="network_traffic"
+        android:icon="@drawable/ic_networktraffic"
+        android:title="@string/network_traffic_title"
+        android:summary="@string/network_traffic_summary"
+        android:fragment="com.toxyc.hazard.fragments.NetworkTraffic" />
+
+    <PreferenceScreen
         android:key="statusbar_misc"
         android:title="@string/misc_settings_title"
         android:summary="@string/misc_settings_summary"
