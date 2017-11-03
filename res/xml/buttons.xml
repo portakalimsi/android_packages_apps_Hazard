@@ -48,6 +48,18 @@
     </PreferenceCategory>
 
     <PreferenceCategory
+        android:key="hw_fpandmore"
+        android:title="@string/hardware_otherdevices">
+
+    <com.toxyc.hazard.preference.SystemSettingSwitchPreference
+        android:key="fingerprint_success_vib"
+        android:title="@string/fprint_sucess_vib_title"
+        android:summary="@string/fprint_sucess_vib_summary"
+        android:defaultValue="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
         android:key="back_key"
         android:title="@string/hardware_keys_back_key_title" >
 

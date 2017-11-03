@@ -215,6 +215,12 @@
   <string name="navigation_bar_menu_arrow_keys_title">Setas na navbar enquanto digita</string>
   <string name="navigation_bar_menu_arrow_keys_summary">Mostrar botões virtuais na navbar enquanto digita</string>
 
+  <!-- Fingerprint vibrate -->
+    <string name="hardware_otherdevices">Sensores e mais</string>
+    <string name="fprint_category">Sensor biométrico</string>
+    <string name="fprint_sucess_vib_title">Vibração na autenticação</string>
+    <string name="fprint_sucess_vib_summary">Vibrar quando autenticar sua digital</string>
+
   <!-- Volume category -->
   <string name="volume_category">Volume Rocker</string>
   <!-- Volume button orientation based on current rotation -->
@@ -234,8 +240,8 @@
   <string name="volume_answer_call_summary">Atender a chamada, quando pressionado os botões de volume</string>
 
   <!-- HW Keys customization -->
-    <string name="button_settings_title">Botões</string>
-    <string name="button_settings_title_summary">Executar ações de botões personalizadas</string>
+  <string name="button_settings_title">Botões</string>
+  <string name="button_settings_title_summary">Executar ações de botões personalizadas</string>
   <string name="picker_activities">Atividades</string>
   <string name="select_custom_app_title">Escolher aplicativo personalizado</string>
   <string name="select_custom_activity_title">Escolher atividade personalizada</string>

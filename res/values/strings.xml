@@ -218,6 +218,12 @@
     <string name="navigation_bar_menu_arrow_keys_title">Arrow keys while typing</string>
     <string name="navigation_bar_menu_arrow_keys_summary">Display left and right cursor buttons while typing</string>
 
+    <!-- Fingerprint vibrate -->
+    <string name="hardware_otherdevices">Sensor and more</string>
+    <string name="fprint_category">Fingerprint</string>
+    <string name="fprint_sucess_vib_title">Fingerprint authentication vibration</string>
+    <string name="fprint_sucess_vib_summary">Vibrate on successful fingerprint authentication</string>
+
     <!-- Volume category -->
     <string name="volume_category">Volume Rocker</string>
 
