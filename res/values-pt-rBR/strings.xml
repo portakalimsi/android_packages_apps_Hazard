@@ -305,4 +305,13 @@
   <string name="face_auto_unlock_title">Desbloqueio facial</string>
   <string name="face_auto_unlock_summary">Dispensar tela de bloqueio rapidamente com desbloqueio facial</string>
 
+  <!-- Button backlight -->
+  <string name="button_backlight_options_category">Opções de luz de fundo</string>
+  <string name="button_backlight_enable_title">Permitir luz de fundo dos botões</string>
+  <string name="button_link_brightness">Ajustar coforme o brilho da tela</string>
+  <string name="button_link_brightness_summary">A luz de fundo dos botões irá acompanhar o brilho da tela</string>
+  <string name="button_manual_brightness">Nível de brilho</string>
+  <string name="button_timeout_title">Tempo de espera da luz de fundo</string>
+  <string name="button_backlight_on_touch_only_title">Luz de fundo ao toque</string>
+  <string name="button_backlight_on_touch_only_summary">A luz de fundo irá aparecer ao toque dos botões ao invés de o tempo todo. O tempo de espera ainda influência nesse recurso.</string>
 </resources>
