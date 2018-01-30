@@ -281,4 +281,8 @@
   <string name="double_tap_to_sleep_title">Toque duplo para desligar a tela</string>
   <string name="double_tap_to_sleep_summary">Dê um duplo toque na barra de status para desligar a tela</string>
 
+  <!-- Face auto unlock -->
+  <string name="face_auto_unlock_title">Desbloqueio facial</string>
+  <string name="face_auto_unlock_summary">Dispensar tela de bloqueio rapidamente com desbloqueio facial</string>
+
 </resources>
