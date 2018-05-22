@@ -64,6 +64,7 @@
     <string name="status_bar_clock_date_settings_summary">Choose how to display the clock &amp; date in the status bar</string>
     <string name="position_title">Position</string>
     <string name="position_right_title">Right</string>
+    <string name="position_left_title">Left</string>
     <string name="position_centered_title">Centered</string>
     <string name="normal_title">Normal</string>
     <string name="hidden_title">Hidden</string>

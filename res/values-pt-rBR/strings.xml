@@ -63,6 +63,7 @@
   <string name="status_bar_clock_date_settings_summary">Escolha como exibir o relógio &amp; data na barra de status</string>
   <string name="position_title">Posição</string>
   <string name="position_right_title">Direita</string>
+  <string name="position_left_title">Esquerda</string>
   <string name="position_centered_title">Centro</string>
   <string name="normal_title">Normal</string>
   <string name="hidden_title">Oculto</string>
