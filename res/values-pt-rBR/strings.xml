@@ -46,6 +46,7 @@
   <string name="status_bar_category">Barra de status</string>
   <string name="system_category">Sistema</string>
   <string name="lockscreen_category">Tela de bloqueio</string>
+  <string name="lockscreen_style">Estilo da tela de bloqueio</string>
   <string name="navigation_category">Barra de navegação</string>
 
   <!-- Color Picker -->
@@ -81,5 +82,19 @@
   <string name="clock_date_date_style_uppercase">Maiúsculas</string>
   <string name="clock_date_date_size_small_title">Pequeno</string>
   <string name="clock_date_date_size_small_summary">Ative para exibir a data em tamanho pequeno</string>
+
+  <!-- Lockscreen clock, date, & alarm -->
+  <string name="lockscreen_clock_selection_title">Estilo do relógio</string>
+  <string name="lockscreen_clock_selection_summary">Alterar o estilo do relógio da tela de bloqueio</string>
+  <string name="lockscreen_clock_selection_digital">Padrão</string>
+  <string name="lockscreen_clock_selection_digital_bold">Digital (negrito)</string>
+  <string name="lockscreen_clock_selection_analog">Analógico</string>
+  <string name="lockscreen_clock_selection_analog_deadpool">Analógico (deadpool)</string>
+  <string name="lockscreen_clock_selection_sammy">Sammy</string>
+  <string name="lockscreen_clock_selection_sammy_bold">Sammy (negrito)</string>
+  <string name="lockscreen_date_selection_title">Estilo da data</string>
+  <string name="lockscreen_date_selection_default">Padrão</string>
+  <string name="lockscreen_date_selection_str_box">Caixa semitransparente</string>
+  <string name="lockscreen_date_selection_str_round">Caixa semitransparente (redonda)</string>
 
 </resources>

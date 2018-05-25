@@ -47,6 +47,7 @@
     <string name="status_bar_category">Statusbar</string>
     <string name="system_category">System</string>
     <string name="lockscreen_category">Lockscreen</string>
+    <string name="lockscreen_style">Lockscreen Style</string>
     <string name="navigation_category">Navigation</string>
 
     <!-- Color Picker -->
@@ -83,5 +84,18 @@
     <string name="clock_date_date_size_small_title">Small</string>
     <string name="clock_date_date_size_small_summary">Enabe to display the date small sized</string>
 
-</resources>
+     <!-- Lockscreen clock, date, & alarm -->
+    <string name="lockscreen_clock_selection_title">Clock style</string>
+    <string name="lockscreen_clock_selection_summary">Change lockscreen clock style</string>
+    <string name="lockscreen_clock_selection_digital">Default</string>
+    <string name="lockscreen_clock_selection_digital_bold">Digital (bold)</string>
+    <string name="lockscreen_clock_selection_analog">Analog</string>
+    <string name="lockscreen_clock_selection_analog_deadpool">Analog (deadpool)</string>
+    <string name="lockscreen_clock_selection_sammy">Sammy</string>
+    <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
+    <string name="lockscreen_date_selection_title">Date style</string>
+    <string name="lockscreen_date_selection_default">Default</string>
+    <string name="lockscreen_date_selection_str_box">Semi-transparent box</string>
+    <string name="lockscreen_date_selection_str_round">Semi-transparent box (round)</string>
 
+</resources>

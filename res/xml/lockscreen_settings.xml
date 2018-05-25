@@ -16,14 +16,21 @@
 -->
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:title="@string/lockscreen_category"
+    android:title="@string/lockscreen_style"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
-    <PreferenceScreen
-        android:key="lockscreen_clock_date_style"
-        android:icon="@drawable/ic_settings_lockscreen_clock_style"
+    <ListPreference
+        android:key="lockscreen_clock_selection"
         android:title="@string/lockscreen_clock_selection_title"
-        android:summary="@string/lockscreen_clock_selection_summary"
-        android:fragment="com.toxyc.hazard.fragments.LockscreenSettings" />
+        android:entries="@array/lockscreen_clock_selection_entries"
+        android:entryValues="@array/lockscreen_clock_selection_values"
+        android:defaultValue="0" />
+
+    <ListPreference
+        android:key="lockscreen_date_selection"
+        android:title="@string/lockscreen_date_selection_title"
+        android:entries="@array/lockscreen_date_selection_entries"
+        android:entryValues="@array/lockscreen_date_selection_values"
+        android:defaultValue="0" />
 
 </PreferenceScreen>
