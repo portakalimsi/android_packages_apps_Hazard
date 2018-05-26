@@ -148,4 +148,8 @@
     <string name="show_carrier_statusbar">Status bar</string>
     <string name="show_carrier_enabled">Both</string>
 
+    <!-- Font picker -->
+    <string name="font_picker_title">Font picker</string>
+    <string name="font_picker_summary">Change the rom font style</string>
+
 </resources>

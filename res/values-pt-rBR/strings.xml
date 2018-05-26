@@ -147,4 +147,8 @@
   <string name="show_carrier_statusbar">Barra de Status</string>
   <string name="show_carrier_enabled">Ambos</string>
 
+  <!-- Font picker -->
+  <string name="font_picker_title">Seletor de fontes</string>
+  <string name="font_picker_summary">Altere o estilo de fonte da rom</string>
+
 </resources>

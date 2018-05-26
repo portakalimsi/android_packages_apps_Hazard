@@ -27,4 +27,12 @@
         android:icon="@drawable/ic_settings_color_manager"
         android:fragment="com.android.settings.aoscp.colormanager.ColorManagerFragment" />
 
+    <!-- Custom Font -->
+    <com.android.settings.display.FontDialogPreference
+        android:key="custom_font"
+        android:title="@string/font_picker_title"
+        android:summary="@string/font_picker_summary"
+        android:icon="@drawable/ic_settings_custom_font"
+        android:persistent="false" />
+
 </PreferenceScreen>
