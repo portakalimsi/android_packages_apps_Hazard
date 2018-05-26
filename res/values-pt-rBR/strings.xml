@@ -134,4 +134,17 @@
   <string name="qs_columns_portrait_title">Colunas (retrato)</string>
   <string name="qs_columns_landscape_title">Colunas (paisagem)</string>
 
+  <!-- Carrier Label -->
+  <string name="carrier_label_title">Etiqueta da operadora</string>
+  <string name="carrier_label_summary">Personalize a etiqueta da operadora na tela de bloqueio ou na barra de status</string>
+  <string name="carrier_options">Selecione os locais de exibição</string>
+  <string name="custom_carrier_label_title">Nome personalizado da operadora</string>
+  <string name="custom_carrier_label_explain">Insira um nome de operadora personalizado. Deixe em branco para usar o seu nome de operadora padrão</string>
+  <string name="custom_carrier_label_notset">Nome personalizado não definido</string>
+  <string name="show_carrier_title">Nome da operadora</string>
+  <string name="show_carrier_disabled">Desativar</string>
+  <string name="show_carrier_keyguard">Tela de bloqueio</string>
+  <string name="show_carrier_statusbar">Barra de Status</string>
+  <string name="show_carrier_enabled">Ambos</string>
+
 </resources>
