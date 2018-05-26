@@ -41,6 +41,9 @@
   <string name="color_title">Cor</string>
   <string name="colors_title">Cores</string>
 
+  <!-- SystemUI Restart -->
+  <string name="systemui_restart_toast">Esse recurso requer que uma reinicialização da SystemUI seja aplicada. Vamos reiniciar a SystemUI agora mesmo.</string>
+
   <!-- hazard categories -->
   <string name="recents_category">Recentes</string>
   <string name="status_bar_category">Barra de status</string>
@@ -114,5 +117,12 @@
   <string name="recents_clear_all_location_bottom_right">Canto inferior direito</string>
   <string name="recents_clear_all_location_bottom_left">Inferior Esquerdo</string>
   <string name="recents_clear_all_location_bottom_center">Inferior central</string>
+
+  <!-- AOSP Recents Style -->
+  <string name="recents_type_title">Layout de recentes</string>
+  <string name="recents_type_summary">Alterar layout de recentes para Padrão, Grade, Android Go</string>
+  <string name="recents_stock">Padrão</string>
+  <string name="recents_grid">Grade</string>
+  <string name="recents_go">Android Go</string>
 
 </resources>
