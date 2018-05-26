@@ -26,4 +26,11 @@
         android:summary="@string/status_bar_clock_date_settings_summary"
         android:fragment="com.toxyc.hazard.fragments.ClockDateSettings" />
 
+    <PreferenceScreen
+        android:key="status_bar_quicksettings"
+        android:icon="@drawable/ic_settings_quicksettings"
+        android:title="@string/quicksettings_title"
+        android:summary="@string/quicksettings_summary"
+        android:fragment="com.toxyc.hazard.fragments.QuickSettings" />
+
 </PreferenceScreen>

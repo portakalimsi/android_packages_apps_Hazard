@@ -51,6 +51,7 @@
   <string name="lockscreen_category">Tela de bloqueio</string>
   <string name="lockscreen_style">Estilo da tela de bloqueio</string>
   <string name="navigation_category">Barra de navegação</string>
+  <string name="quicksettings_title">Configurações rápidas</string>
 
   <!-- Color Picker -->
   <string name="dialog_color_picker">Selecionar cor</string>
@@ -124,5 +125,13 @@
   <string name="recents_stock">Padrão</string>
   <string name="recents_grid">Grade</string>
   <string name="recents_go">Android Go</string>
+
+  <!-- Quick settings tiles -->
+  <string name="quicksettings_summary">Altere as configurações rápidas</string>
+  <string name="qs_rows_columns_title">Linhas e colunas da configurações rápidas</string>
+  <string name="qs_rows_portrait_title">Linhas (retrato)</string>
+  <string name="qs_rows_landscape_title">Linhas (paisagem)</string>
+  <string name="qs_columns_portrait_title">Colunas (retrato)</string>
+  <string name="qs_columns_landscape_title">Colunas (paisagem)</string>
 
 </resources>
