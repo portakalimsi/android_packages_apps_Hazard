@@ -35,4 +35,12 @@
         android:icon="@drawable/ic_settings_custom_font"
         android:persistent="false" />
 
+    <!-- Misc Settings -->
+    <Preference
+        android:key="misc_settings"
+        android:title="@string/misc_settings_title"
+        android:summary="@string/misc_settings_summary"
+        android:icon="@drawable/ic_settings_miscs"
+        android:fragment="com.toxyc.hazard.fragments.MiscSettings" />
+
 </PreferenceScreen>

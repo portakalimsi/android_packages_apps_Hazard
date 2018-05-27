@@ -53,6 +53,7 @@
     <string name="lockscreen_style">Lockscreen Style</string>
     <string name="navigation_category">Navigation</string>
     <string name="quicksettings_title">Quick Settings</string>
+    <string name="misc_settings_title">Misc</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
@@ -151,5 +152,13 @@
     <!-- Font picker -->
     <string name="font_picker_title">Font picker</string>
     <string name="font_picker_summary">Change the rom font style</string>
+
+    <!-- Wallpaper tint -->
+    <string name="misc_settings_summary">Miscellaneous options for customization</string>
+    <string name="wallpaper_tint_power_menu">Power menu background tint</string>
+    <string name="wallpaper_tint_recents">Recents background tint</string>
+    <string name="wallpaper_tint_keyguard">Lockscreen background tint</string>
+    <string name="wallpaper_tint_notification_shade">Notification shade tint</string>
+    <string name="wallpaper_tint_summary">Apply a tint to the background based on the homescreen wallpaper</string>
 
 </resources>

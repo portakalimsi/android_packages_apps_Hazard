@@ -52,6 +52,7 @@
   <string name="lockscreen_style">Estilo da tela de bloqueio</string>
   <string name="navigation_category">Barra de navegação</string>
   <string name="quicksettings_title">Configurações rápidas</string>
+  <string name="misc_settings_title">Diversos</string>
 
   <!-- Color Picker -->
   <string name="dialog_color_picker">Selecionar cor</string>
@@ -150,5 +151,13 @@
   <!-- Font picker -->
   <string name="font_picker_title">Seletor de fontes</string>
   <string name="font_picker_summary">Altere o estilo de fonte da rom</string>
+
+  <!-- Wallpaper tint -->
+  <string name="misc_settings_summary">Opções diversas para customização</string>
+  <string name="wallpaper_tint_power_menu">Tonalidade de fundo do menu de energia</string>
+  <string name="wallpaper_tint_recents">Tonalidade de fundo do recentes</string>
+  <string name="wallpaper_tint_keyguard">Tonalidade do fundo da tela de bloqueio</string>
+  <string name="wallpaper_tint_notification_shade">Tonalidade da sombra de notificações</string>
+  <string name="wallpaper_tint_summary">Aplique uma tonalidade ao fundo com base no papel de parede da tela inicial</string>
 
 </resources>
