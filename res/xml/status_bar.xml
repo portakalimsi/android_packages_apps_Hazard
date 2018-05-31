@@ -48,6 +48,13 @@
         android:fragment="com.toxyc.hazard.fragments.CarrierLabel" />
 
     <PreferenceScreen
+        android:key="ticker_settings"
+        android:icon="@drawable/ic_settings_ticker"
+        android:summary="@string/ticker_mode_title_summary"
+        android:title="@string/ticker_mode_title"
+        android:fragment="com.toxyc.hazard.fragments.TickerSettings" />
+
+    <PreferenceScreen
         android:key="statusbar_misc"
         android:title="@string/misc_settings_title"
         android:summary="@string/misc_settings_summary"

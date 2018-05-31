@@ -196,4 +196,11 @@
   <string name="status_bar_logo_left">Esquerda</string>
   <string name="status_bar_logo_right">Direita</string>
 
+  <!-- Status bar ticker -->
+  <string name="ticker_mode_title">Ticker da barra de status</string>
+  <string name="ticker_mode_title_summary">Mostrar rapidamente título de música e notificação na barra de status</string>
+  <string name="ticker_disabled">Sem ticker</string>
+  <string name="ticker_enabled">Notificação</string>
+  <string name="ticker_media_enabled">Notificação e música</string>
+
 </resources>
