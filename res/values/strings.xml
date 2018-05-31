@@ -189,4 +189,12 @@
     <string name="battery_percentage_beside">Show beside the battery icon</string>
     <string name="battery_percentage_inside">Show inside the battery icon</string>
 
+    <!-- Toxyc statusbar logo -->
+    <string name="status_bar_logo_title">Toxyc logo</string>
+    <string name="status_bar_logo_summary">Enable to show Toxyc logo on statusbar</string>
+    <string name="status_bar_logo_dialog_title">Toxyc logo position</string>
+    <string name="status_bar_logo_disabled">Disabled</string>
+    <string name="status_bar_logo_left">Left</string>
+    <string name="status_bar_logo_right">Right</string>
+
 </resources>

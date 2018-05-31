@@ -47,4 +47,11 @@
         android:summary="@string/carrier_label_summary"
         android:fragment="com.toxyc.hazard.fragments.CarrierLabel" />
 
+    <PreferenceScreen
+        android:key="statusbar_misc"
+        android:title="@string/misc_settings_title"
+        android:summary="@string/misc_settings_summary"
+        android:icon="@drawable/ic_settings_miscs"
+        android:fragment="com.toxyc.hazard.fragments.StatusBarMisc" />
+
 </PreferenceScreen>
