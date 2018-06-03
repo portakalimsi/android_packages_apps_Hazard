@@ -98,6 +98,7 @@
   <string name="lockscreen_clock_selection_sammy">Sammy</string>
   <string name="lockscreen_clock_selection_sammy_bold">Sammy (negrito)</string>
   <string name="lockscreen_date_selection_title">Estilo da data</string>
+  <string name="lockscreen_date_selection_default_aosp">Padrão (tamanho pequeno)</string>
   <string name="lockscreen_date_selection_default">Padrão</string>
   <string name="lockscreen_date_selection_str_box">Caixa semitransparente</string>
   <string name="lockscreen_date_selection_str_round">Caixa semitransparente (redonda)</string>
