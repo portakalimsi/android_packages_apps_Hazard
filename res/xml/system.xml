@@ -27,6 +27,14 @@
         android:icon="@drawable/ic_settings_color_manager"
         android:fragment="com.android.settings.aoscp.colormanager.ColorManagerFragment" />
 
+    <!-- Button Settings -->
+    <Preference
+        android:key="button_settings"
+        android:title="@string/button_settings_title"
+        android:summary="@string/button_settings_title_summary"
+        android:icon="@drawable/ic_settings_buttons"
+        android:fragment="com.toxyc.hazard.fragments.ButtonSettings" />
+
     <!-- Custom Font -->
     <com.toxyc.hazard.fragments.display.FontDialogPreference
         android:key="custom_font"
