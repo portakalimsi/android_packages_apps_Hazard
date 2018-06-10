@@ -99,7 +99,7 @@ public class ClockDateSettings extends SettingsPreferenceFragment implements
         mClockDatePosition =
                 (ListPreference) findPreference(PREF_CLOCK_DATE_POSITION);
         int clockDatePosition = Settings.System.getInt(mResolver,
-                Settings.System.STATUS_BAR_CLOCK_DATE_POSITION, 0);
+                Settings.System.STATUS_BAR_CLOCK_DATE_POSITION, 1);
         mClockDatePosition.setValue(String.valueOf(clockDatePosition));
         mClockDatePosition.setSummary(mClockDatePosition.getEntry());
         mClockDatePosition.setOnPreferenceChangeListener(this);

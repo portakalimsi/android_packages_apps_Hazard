@@ -57,7 +57,7 @@ public class CarrierLabel extends SettingsPreferenceFragment implements Preferen
 
         mShowCarrierLabel = (ListPreference) findPreference(KEY_STATUS_BAR_CARRIER);
         int showCarrierLabel = Settings.System.getInt(resolver,
-                Settings.System.STATUS_BAR_CARRIER, 1);
+                Settings.System.STATUS_BAR_CARRIER, 0);
         mShowCarrierLabel.setValue(String.valueOf(showCarrierLabel));
         mShowCarrierLabel.setSummary(mShowCarrierLabel.getEntry());
         mShowCarrierLabel.setOnPreferenceChangeListener(this);
