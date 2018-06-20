@@ -277,4 +277,8 @@
     <string name="hardware_keys_utouch_single_tap">Tap</string>
     <string name="hardware_keys_utouch_long_tap">Long tap</string>
 
+    <!-- P animations -->
+    <string name="system_default_animation_title">Android P animation style</string>
+    <string name="system_default_animation_summary">Enable Android P \"Default\" animations</string>
+
 </resources>

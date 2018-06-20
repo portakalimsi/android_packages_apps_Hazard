@@ -257,4 +257,8 @@
   <string name="hardware_keys_utouch_left_swipe">Deslizar para a esquerda</string>
   <string name="hardware_keys_utouch_right_swipe">Deslizar para a direita</string>
 
+  <!-- P animations -->
+  <string name="system_default_animation_title">Estilo de animação Android P</string>
+  <string name="system_default_animation_summary">Ativar animações \"Padrão\" Android P</string>
+
 </resources>
