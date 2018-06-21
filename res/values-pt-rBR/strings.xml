@@ -208,6 +208,8 @@
 
   <!-- Navbar tuner -->
   <string name="navbar_tuner_title">Gerenciar a barra de navegação</string>
+  <string name="navigation_bar_menu_arrow_keys_title">Setas na navbar enquanto digita</string>
+  <string name="navigation_bar_menu_arrow_keys_summary">Mostrar botões virtuais na navbar enquanto digita</string>
 
   <!-- Volume category -->
   <string name="volume_category">Volume Rocker</string>

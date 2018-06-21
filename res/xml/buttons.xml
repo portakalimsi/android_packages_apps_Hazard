@@ -28,6 +28,13 @@
                 android:targetPackage="com.android.systemui"
                 android:targetClass="com.android.systemui.tuner.NavBarActivity" />
         </Preference>
+
+            <com.toxyc.hazard.preference.SystemSettingSwitchPreference
+                android:key="navigation_bar_menu_arrow_keys"
+                android:title="@string/navigation_bar_menu_arrow_keys_title"
+                android:summary="@string/navigation_bar_menu_arrow_keys_summary"
+                android:defaultValue="fale"/>
+
     </PreferenceCategory>
 
     <PreferenceCategory
