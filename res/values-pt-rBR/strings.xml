@@ -261,4 +261,12 @@
   <string name="system_default_animation_title">Estilo de animação Android P</string>
   <string name="system_default_animation_summary">Ativar animações \"Padrão\" Android P</string>
 
+  <!-- Double Tap Lockscreen to Sleep -->
+  <string name="double_tap_to_sleep_lockscreen_title">Toque duplo para desligar a tela</string>
+  <string name="double_tap_to_sleep_lockscreen_summary">Dê um duplo toque na tela de bloqueio para desligar a tela</string>
+
+  <!-- Double Tap StatusBar to Sleep -->
+  <string name="double_tap_to_sleep_title">Toque duplo para desligar a tela</string>
+  <string name="double_tap_to_sleep_summary">Dê um duplo toque na barra de status para desligar a tela</string>
+
 </resources>
