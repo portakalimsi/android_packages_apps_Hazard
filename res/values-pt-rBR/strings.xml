@@ -111,6 +111,11 @@
   <string name="hide_lockscreen_alarm_title">Texto de alarme</string>
   <string name="hide_lockscreen_alarm_summary">Altere a visibilidade do texto do alarme embaixo do widget de relógio</string>
 
+  <!-- Lockscreen secure -->
+  <string name="lockscreen_misc_selection_title">Configurações de segurança</string>
+  <string name="lockscreen_misc_selection_summary">Configurações de desbloqueio de tela</string>
+  <string name="secure_category_settings">Segurança</string>
+
   <!-- Recents panel settings -->
   <string name="recents_default_category">Recentes</string>
   <string name="show_clear_all_recents_button_title">Botão circular</string>
@@ -157,6 +162,7 @@
   <string name="font_picker_progress">Aplicando nova fonte\u2026</string>
 
   <!-- Wallpaper tint -->
+  <string name="wallpaper_tint_title">Tonalidades com wallpaper</string>
   <string name="misc_settings_summary">Opções diversas para customização</string>
   <string name="wallpaper_tint_power_menu">Tonalidade de fundo do menu de energia</string>
   <string name="wallpaper_tint_recents">Tonalidade de fundo do recentes</string>
@@ -216,10 +222,10 @@
   <string name="navigation_bar_menu_arrow_keys_summary">Mostrar botões virtuais na navbar enquanto digita</string>
 
   <!-- Fingerprint vibrate -->
-    <string name="hardware_otherdevices">Sensores e mais</string>
-    <string name="fprint_category">Sensor biométrico</string>
-    <string name="fprint_sucess_vib_title">Vibração na autenticação</string>
-    <string name="fprint_sucess_vib_summary">Vibrar quando autenticar sua digital</string>
+  <string name="hardware_otherdevices">Sensores e mais</string>
+  <string name="fprint_category">Sensor biométrico</string>
+  <string name="fprint_sucess_vib_title">Vibração na autenticação</string>
+  <string name="fprint_sucess_vib_summary">Vibrar quando autenticar sua digital</string>
 
   <!-- Volume category -->
   <string name="volume_category">Volume Rocker</string>
@@ -270,6 +276,7 @@
   <string name="hardware_keys_utouch_right_swipe">Deslizar para a direita</string>
 
   <!-- P animations -->
+  <string name="animation_style_default">Estilo de Animação</string>
   <string name="system_default_animation_title">Estilo de animação Android P</string>
   <string name="system_default_animation_summary">Ativar animações \"Padrão\" Android P</string>
 

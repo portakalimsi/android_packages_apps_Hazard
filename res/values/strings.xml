@@ -114,6 +114,11 @@
     <string name="hide_lockscreen_alarm_title">Alarm text</string>
     <string name="hide_lockscreen_alarm_summary">Change the alarm text\'s visibility underneath the clock widget</string>
 
+    <!-- Lockscreen secure -->
+    <string name="lockscreen_misc_selection_title">Security settings</string>
+    <string name="lockscreen_misc_selection_summary">Screen unlock settings</string>
+    <string name="secure_category_settings">Security</string>
+
     <!-- Recents panel settings -->
     <string name="recents_default_category">Recents</string>
     <string name="show_clear_all_recents_button_title">Clear all button</string>
@@ -160,6 +165,7 @@
     <string name="font_picker_progress">Applying new font\u2026</string>
 
     <!-- Wallpaper tint -->
+    <string name="wallpaper_tint_title">Shades with wallpaper</string>
     <string name="misc_settings_summary">Miscellaneous options for customization</string>
     <string name="wallpaper_tint_power_menu">Power menu background tint</string>
     <string name="wallpaper_tint_recents">Recents background tint</string>
@@ -290,6 +296,7 @@
     <string name="hardware_keys_utouch_long_tap">Long tap</string>
 
     <!-- P animations -->
+    <string name="animation_style_default">Animation Style</string>
     <string name="system_default_animation_title">Android P animation style</string>
     <string name="system_default_animation_summary">Enable Android P \"Default\" animations</string>
 

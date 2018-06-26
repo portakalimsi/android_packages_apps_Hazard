@@ -26,4 +26,11 @@
         android:summary="@string/lockscreen_clock_selection_summary"
         android:fragment="com.toxyc.hazard.fragments.LockscreenSettings" />
 
+    <PreferenceScreen
+        android:key="misc_lockscreen"
+        android:icon="@drawable/ic_settings_miscs"
+        android:title="@string/lockscreen_misc_selection_title"
+        android:summary="@string/lockscreen_misc_selection_summary"
+        android:fragment="com.toxyc.hazard.fragments.LockscreenMisc" />
+
 </PreferenceScreen>
