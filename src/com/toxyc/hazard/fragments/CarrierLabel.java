@@ -91,7 +91,7 @@ public class CarrierLabel extends SettingsPreferenceFragment implements Preferen
 
             // Set an EditText view to get user input
             final EditText input = new EditText(getActivity());
-            int maxLength = 10;
+            int maxLength = 15;
             input.setText(TextUtils.isEmpty(mCustomCarrierLabelText) ? "" : mCustomCarrierLabelText);
             input.setFilters(new InputFilter[] {new InputFilter.LengthFilter(maxLength)});
             input.setSelection(input.getText().length());
